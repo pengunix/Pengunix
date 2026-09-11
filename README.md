@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/pengunix/pengunix/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pengunix)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ###
