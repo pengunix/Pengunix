@@ -3,7 +3,7 @@
 ###
 
 
-[![Pengunix's GitHub stats](https://github-stats-extended.vercel.app/api?username=pengunix)](https://github.com/stats-organization/github-stats-extended)
+[![Pengunix's GitHub stats](https://github-stats-extended.vercel.app/api?username=pengunix&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
